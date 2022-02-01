@@ -1,0 +1,4 @@
+app;bind;increment
+Quit PSVM;27;0
+Discord.exe;101;5
+Discord.exe;104;-5
